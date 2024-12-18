@@ -1,0 +1,1 @@
+LibraryManagementSystem is a simple Windows Forms application designed for managing library operations such as borrowing and returning books. The system allows users to track books, manage overdue items, and perform basic operations related to library management in an easy-to-use interface.
